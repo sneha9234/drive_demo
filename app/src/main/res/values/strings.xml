@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Drive Demo</string>
+    <string name="login">Login</string>
+    <string name="login_to_continue">You need to login to continue</string>
+    <string name="no_files_uploaded">No files uploaded</string>
+    <string name="upload">Upload</string>
+</resources>
